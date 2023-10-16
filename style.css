@@ -1,0 +1,155 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,700&family=League+Spartan:wght@700&family=Montserrat:wght@500;700&family=Outfit:wght@400;700&display=swap');
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .headpara {
+    position: relative;
+    margin-top: 135px;
+    left: 0px;
+    display: flex;
+    height: 375px;
+    width: 350px;
+    overflow: hidden;
+    flex-wrap: wrap;
+  }
+  .firstline {
+    color: hsl(300, 43%, 22%);
+    font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-size: 48px;
+  }
+.firstpara {
+  font-size: 15px;
+  color: hsl(303, 10%, 53%);
+  font-size: 18px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+.card1 {
+  height: 220px ;
+  width: 350px;
+  border: 4px solid hsl(300, 43%, 22%);
+  border-radius: 19px;
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-size: 15px;
+margin-top: 10px;
+}
+.cardv {
+  color: #9b4177;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: -20px;
+}
+.place2 {
+  margin-top: -150px;
+  margin-left: 400px;
+}
+.place3 {
+  margin-top: -150px;
+  margin-left: 800px;
+}
+.colton {
+  border: hsl(300, 43%, 22%);
+  border-radius: 50%;
+}
+.card1 img {
+  border-radius: 50%;
+  margin-top: -20px;
+  margin-left: -20px;
+}
+.littlecard1 {
+  height: 50px;
+  width: 600px;
+  border: 4px solid transparent ;
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color:hsl(300, 43%, 22%) ;
+  font-family: 'Fraunces', serif;
+  font-family: 'League Spartan', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  border-radius: 10px;
+  background-color:  #e5b3fe;
+  position: absolute;
+  top: 180px;
+  left: 520px;
+  
+}
+.littlecard2 {
+  height: 50px;
+  width: 600px;
+  border: 4px solid transparent ;
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color:hsl(300, 43%, 22%) ;
+  font-family: 'Fraunces', serif;
+  font-family: 'League Spartan', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  border-radius: 10px;
+  background-color:  #e5b3fe;
+  position: relative;
+  top: -590px;
+  left: 600px;
+
+}
+.littlecard3 {
+  height: 50px;
+  width: 600px;
+  border: 4px solid transparent ;
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color:hsl(300, 43%, 22%) ;
+  font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-size: 15px;
+font-weight: 700;
+border-radius: 10px;
+background-color: #e5b3fe;
+
+position: relative;
+top: -750px;
+  left: 550px;
+}
+.littlecard1 img {
+  position: relative;
+  left: -1%;
+  bottom: 40%;;
+}
+.checked {
+  color: orange;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 25px;
+}
+
